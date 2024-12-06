@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ludus56
-- 👀 I’m interested in Minecraft Java Modding, and Programming in java and c++
-- 🌱 I’m currently learning Java and Java Modding
+- I make stuff. Sometimes it works!
 
 
 <!---
